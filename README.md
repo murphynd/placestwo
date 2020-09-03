@@ -36,9 +36,9 @@ Output:MyPassport[]
 ```
 
 ```
-Spec:
-input:
-Output:
+Spec: create method for class passport to add places to constructor
+input:Mypassport.addplace(place)
+Output:Mypassport.places = [place]
 
 ```
 

@@ -1,3 +1,5 @@
 export default class Passport {
-  constructor() {}
+  constructor() {
+    this.places = [];
+  }
 }

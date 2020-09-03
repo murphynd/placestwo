@@ -42,6 +42,13 @@ Output:Mypassport.places = [place]
 
 ```
 
+```
+Spec: create method for class passport to find by location
+input: Mypassport.findByLocation(England)
+Output: Mypassport.findByLocation(England) = [London]
+
+```
+
 ## Setup/Installation Requirements
 
 ## Known Bugs
